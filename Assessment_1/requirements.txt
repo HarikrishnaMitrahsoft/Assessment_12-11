@@ -1,0 +1,6 @@
+sqlalchemy
+pydantic
+pydantic[email]
+alembic
+fastapi
+uvicorn

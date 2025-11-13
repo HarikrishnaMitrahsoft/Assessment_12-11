@@ -1,0 +1,97 @@
+{
+	"clinic_id": "CL001",
+	"name": "Sunshine Family Clinic",
+	"address": {
+		"street": "123 Main Street",
+		"city": "Chennai",
+		"state": "Tamil Nadu",
+		"pincode": "600001"
+	},
+	"contact": {
+		"phone": "+91-9876543210",
+		"email": "info@sunshineclinic.in",
+		"website": "https://sunshineclinic.in"
+	},
+	"specializations": [
+		"General Medicine",
+		"Pediatrics",
+		"Dermatology"
+	],
+	"doctors": [
+		{
+			"name": "Dr. Meena Rao",
+			"qualification": "MBBS, MD (General Medicine)",
+			"experience": "12 years",
+			"consultation_hours": {
+				"monday_to_friday": "9:00 AM - 1:00 PM, 5:00 PM - 8:00 PM",
+				"saturday": "9:00 AM - 2:00 PM"
+			},
+			"availability": [
+				"Monday",
+				"Tuesday",
+				"Wednesday",
+				"Thursday",
+				"Friday",
+				"Saturday"
+			]
+		},
+		{
+			"name": "Dr. Arjun Iyer",
+			"qualification": "MBBS, DCH (Pediatrics)",
+			"experience": "8 years",
+			"consultation_hours": {
+				"monday_to_friday": "10:00 AM - 1:00 PM",
+				"saturday": "10:00 AM - 12:00 PM"
+			},
+			"availability": [
+				"Monday",
+				"Tuesday",
+				"Wednesday",
+				"Thursday",
+				"Friday",
+				"Saturday"
+			]
+		}
+	],
+	"services": [
+		"Blood Test",
+		"Vaccination",
+		"Health Check-up",
+		"Minor Surgery",
+		"Skin Treatment"
+	],
+	"facilities": [
+		"Wheelchair Access",
+		"Parking",
+		"Pharmacy",
+		"Online Appointment Booking",
+		"Teleconsultation"
+	],
+	"working_hours": {
+		"monday_to_friday": "8:00 AM - 9:00 PM",
+		"saturday": "8:00 AM - 6:00 PM",
+		"sunday": "Closed"
+	},
+	"appointment_modes": [
+		"In-person",
+		"Online",
+		"Home Visit"
+	],
+	"insurance_partners": [
+		"Star Health",
+		"HDFC Ergo",
+		"ICICI Lombard"
+	],
+	"reviews": [
+		{
+			"rating": 4.5,
+			"comment": "Doctors are very friendly and professional.",
+			"user": "Anjali Sharma"
+		},
+		{
+			"rating": 4.0,
+			"comment": "Quick service and affordable.",
+			"user": "Ravi Kumar"
+		}
+	]
+}
